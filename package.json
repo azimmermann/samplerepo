@@ -1,0 +1,24 @@
+{
+  "name": "samplerepo",
+  "version": "1.0.0",
+  "description": "MEAN stack stuff",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.12.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/azimmermann/samplerepo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/azimmermann/samplerepo/issues"
+  },
+  "homepage": "https://github.com/azimmermann/samplerepo#readme"
+}
